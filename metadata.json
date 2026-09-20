@@ -1,0 +1,6 @@
+{
+  "name": "AEROVIS — AI Transportation Intelligence",
+  "description": "AI-powered intelligent transportation & safety platform transforming bus-camera footage into verified operational intelligence.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
